@@ -310,11 +310,11 @@ body{
 
 @media screen and (min-width: 1440px) {
 
-    .card--highlight{
+   .card--highlight{
         margin-bottom: 0;
     }
 
-    .card__image--mobile{
+   .card__image--mobile{
         display: none;
     }
 
